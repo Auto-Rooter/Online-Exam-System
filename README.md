@@ -11,7 +11,7 @@
 ## Usage: 
 <br>
 (First you need to install composer, and you need a mysql server that contain a database with name "online_exam"(don`t forget to change the database credentials in `.env` file))
-<br>
+<br><br>
 
 
 ```shell
@@ -39,8 +39,8 @@ $ php artisan serve
 
 ## Login:
 - You can login with an account added by the admin only :
-<br>
-`also only emails end with domain : `.uni-miskolc.hu` `
+
+(also only emails end with domain : `.uni-miskolc.hu`)
 <br><br>
 
 ![](imgs/login.JPG)
