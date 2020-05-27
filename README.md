@@ -5,11 +5,12 @@
   - Front-end : Bootstrap, JQuery, CSS, HTML
   - Back-end : Laravel Framework (PHP)
   - Database : Mysql
-<br>
-__ [This Project based on LaraQuiz project](https://github.com/LaravelDaily/Laraquiz-QuickAdminPanel) __
+<br><br>__[This Project based on LaraQuiz project](https://github.com/LaravelDaily/Laraquiz-QuickAdminPanel)__
 <br><br>
 
-## Usage: (First you need to install composer, and you need a mysql server that contain a database with name "online_exam"(don`t forget to change the database credentials in `.env` file))
+## Usage: 
+<br>
+(First you need to install composer, and you need a mysql server that contain a database with name "online_exam"(don`t forget to change the database credentials in `.env` file))
 <br>
 
 
@@ -37,10 +38,9 @@ $ php artisan serve
 
 
 ## Login:
-<br>
 - You can login with an account added by the admin only :
 <br>
-__  (also only emails end with domain : `.uni-miskolc.hu` ) __
+`also only emails end with domain : `.uni-miskolc.hu` `
 <br><br>
 
 ![](imgs/login.JPG)
@@ -66,13 +66,13 @@ __  (also only emails end with domain : `.uni-miskolc.hu` ) __
 
 <br>
 - Add new Multi-Choices Question:
-<br>
+<br><br>
 
 ![](imgs/MC_exam.png)
 
 <br>
 - Add new Essay Question:
-<br>
+<br><br>
 
 ![](imgs/essay_q.png)
 
@@ -81,21 +81,21 @@ __  (also only emails end with domain : `.uni-miskolc.hu` ) __
 ## Student Section:
 <br>
 - Student Incoming Exams and registered Subjects:
-<br>
+<br><br>
 
 ![](imgs/student_exam.png)
 
 
 <br>
 - Exam:
-<br>
+<br><br>
 
 ![](imgs/take_exam_student.png)
 
 
 <br>
 - Student Result (before Teacher correct the Essay Questions):
-<br>
+<br><br>
 
 ![](imgs/finish_exam.png)
 
@@ -103,7 +103,7 @@ __  (also only emails end with domain : `.uni-miskolc.hu` ) __
 
 <br>
 - Teacher (List of Essay Questions to be corrected):
-<br>
+<br><br>
 
 ![](imgs/correct_q_index.png)
 
@@ -111,14 +111,14 @@ __  (also only emails end with domain : `.uni-miskolc.hu` ) __
 
 <br>
 - Correct Question:
-<br>
+<br><br>
 
 ![](imgs/corrected.png)
 
 
 <br>
 - Student Final Result:
-<br>
+<br><br>
 
 ![](imgs/my_result.png)
 
